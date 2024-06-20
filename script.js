@@ -1,3 +1,7 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
-document.querySelector("body").appendChild(h2);
+const img = document.getElementById("bull");
+
+
+img.addEventListener("click", function() {
+    
+    img.src = "https://mir-s3-cdn-cf.behance.net/project_modules/fs/bcdaae8480567.560be13c85ac6.jpg";
+});
