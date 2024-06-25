@@ -1,20 +1,21 @@
 
   div {
-  float:left
-    margin-top: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
       font-size: large;
       text-align: left;
       font-weight: normal;
-      font-family: sans-serif;
+      font-family: "times new roman";
       font-weight: normal;
       
   }
     
   body {
-    background-color: rgb(11, 63, 33);
+    background-color: rgba(28, 36, 110, 0.196);
   }
   
   .center{
-    margin: auto;
+    margin: left;
     text-align: center;
   }
